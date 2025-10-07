@@ -1,0 +1,9 @@
+=== KẾT QUẢ HỌC TẬP ===
+Họ tên: Sai Ngoc Dat
+Mã HS: HE191089
+Lớp: SE1912
+Điểm trung bình: 6,89
+Học lực: Khá
+Danh hiệu: Học sinh Tiên tiến 🎖️
+Điểm cao nhất: 10,00, thấp nhất: 4,00
+==============================
